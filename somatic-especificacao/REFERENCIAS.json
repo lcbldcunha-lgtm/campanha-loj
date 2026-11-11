@@ -1,0 +1,32 @@
+{
+  "referenceUrl": "https://instalanding.ai/demos/somatic-ai-wellness.html",
+  "inspectionDate": "2026-11-11",
+  "timezone": "America/Sao_Paulo",
+  "inputs": [
+    {
+      "path": "C:\\Users\\lucascunha\\.codex\\attachments\\f125905c-8fd5-4d36-92ae-5fcc055df19d\\Texto colado.txt",
+      "bytes": 87812,
+      "sha256": "96B4CFDB21DAE0C4AA764AF5BC141F22D99022339834E0D5E4E68E357D8356D0"
+    },
+    {
+      "path": "C:\\Users\\lucascunha\\Downloads\\Somatic - the AI that listens to your body (1).html",
+      "bytes": 13860240,
+      "sha256": "A5CD2911D754813F61DB70B8DA705CFAFF1CD8C718BD0F7957D3650DA9225FD7"
+    }
+  ],
+  "preservedSource": "somatic-original.html",
+  "specification": "SOMATIC-SITE.md",
+  "observed": [
+    "Hero: diamond opens with scroll",
+    "Programs: horizontal movement driven by vertical scroll",
+    "FAQ: only one expanded answer",
+    "Mobile menu: opens and closes with Escape"
+  ],
+  "sourceOnly": [
+    "Waitlist local validation and done state; no submission performed"
+  ],
+  "viewports": [
+    "1440x900",
+    "390x844"
+  ]
+}
